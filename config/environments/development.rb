@@ -40,8 +40,8 @@ WebForm::Application.configure do
         :address              => "smtp.gmail.com",
         :port                 => 587,
         :domain               => 'gmail.com',
-        :user_name            => 'pearlstein.josh',
-        :password             => 'password',
+        :user_name            => 'rubyonrailstest123',
+        :password             => 'ABC123456789',
         :authentication       => 'plain',
         :enable_starttls_auto => true
     }
